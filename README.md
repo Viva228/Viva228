@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Viva228
-- 👀 I’m interested in ..games and learning python(3 years).
+- 👀 I’m interested in ..games and learning python.
 - 🌱 I’m currently learning .SQL, math for IT,and work with neural networks..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
